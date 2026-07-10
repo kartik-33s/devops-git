@@ -2,6 +2,8 @@
 
 << info this script tells how to install
 different types of packages by arguments
+this comment i add for learning some concepts of git
+
 info
 
 echo "installing $1"
